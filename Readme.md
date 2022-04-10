@@ -1,14 +1,15 @@
-/*
 
- Brief description of the animation achieved:
+ # Processing Environment Game : ShootGame
+ ### Brief description of the animation achieved:
  
  The Game is based on the old 'basket ball style games. 
  Where the net moves across the screen and the user tries to score as its moving. As the levels get harder blockers are introduced.
  
- Game - ShootGame
+ ## Game - ShootGame
  The user has to hit the target with the ball (1 at a time).
  If the user hits the target, the score is increased. If the user misses or hits a target, they lose a life.
  
+ ### Levels
  The user can specify the level of difficulty at the beginning of the game (1, 2, 3).
  This changes 
  - No. of blockers in the array.
@@ -27,7 +28,7 @@
  Restart allws the user to try and beat their highscore, as the highscore is retained.
  If they cancel, the game is closed.
  
- Known bugs/problems:
+ ### Known bugs/problems:
  - Shooter and goal travel over the score/lives. blocking out the text.
  - Shooter can only shoot 1 ball at a time.
  - Have to make the screen 'active' before you can move the shooter with the arrows.
@@ -54,4 +55,4 @@
  Text
  - https://processing.org/reference/textSize_.html
  
- */
+ 
