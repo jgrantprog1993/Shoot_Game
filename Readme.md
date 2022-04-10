@@ -1,7 +1,5 @@
 /*
- Name : Jason Grant
- Student Number: 12430732
- 
+
  Brief description of the animation achieved:
  
  The Game is based on the old 'basket ball style games. 
